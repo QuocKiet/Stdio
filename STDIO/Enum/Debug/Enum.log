@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\documents\mycode\stdio\enum\source.cpp(32): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (__cdecl **)(int,int)'
+  Enum.vcxproj -> E:\Documents\Mycode\STDIO\Debug\Enum.exe
+  Enum.vcxproj -> E:\Documents\Mycode\STDIO\Debug\Enum.pdb (Partial PDB)

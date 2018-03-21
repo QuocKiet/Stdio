@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\documents\mycode\stdio\sort\source.cpp(76): warning C4715: 'BinarySearch': not all control paths return a value
+  Sort.vcxproj -> E:\Documents\Mycode\STDIO\Debug\Sort.exe
+  Sort.vcxproj -> E:\Documents\Mycode\STDIO\Debug\Sort.pdb (Full PDB)
